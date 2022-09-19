@@ -1,0 +1,8 @@
+#ignore pycache folder
+*/__pycache__
+
+#ignore venv directory
+*/venv
+
+#ignore flaskenv file
+*/.flaskenv
